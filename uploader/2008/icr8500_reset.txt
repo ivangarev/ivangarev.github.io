@@ -1,0 +1,14 @@
+INSTRUCTION MANUAL IC-R8500
+Page 37
+11 MAINTENANCE
+
+CPU resetting
+If the IC-R8500 is behaving erratically, this may be an
+indication of a CPU malfunction. In such cases, reset
+the CPU.
+While pushing [MW], push [POWER] in to turn on the
+receiver power.
+• The CPU is reset.
+NOTE: Resetting the CPU clears all memory contents
+and returns internal settings to their factory
+defaults

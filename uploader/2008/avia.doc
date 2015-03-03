@@ -1,0 +1,741 @@
+This is an excerpt from my main frequency database.  All frequencies are
+Upper Sideband, Voice.  On most Major World Air Route and LDOC frequencies
+you will hear SELCAL tones being transmitted also to signal particular
+aircraft. PLEASE send corrections and additions to CIS 74066,635.  If you're
+printing this, set printer to condensed type for best tabulation.  Enjoy!
+
+
+
+
+                                MWARA, LDOC, AND VOLMET FREQUENCIES
+
+  Frequency    Service  User Name - Call Sign         Location                          Remarks
+
+     2.8440    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 2 Family
+     2.8510    AVIA     Flight Test Freq.       Nationwide            Allocation
+     2.8510    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     2.8510    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+     2.8630    VOLMET   Auckland VOLMET         Auckland, NZ          H+20,50
+     2.8630    VOLMET   Authorization           Pacific
+     2.8630    VOLMET   Hong Kong VOLMET        Hong Kong, SS         H+15,45
+     2.8630    VOLMET   Honolulu VOLMET         Honolulu, HI          H+00,30
+     2.8630    VOLMET   Tokyo Volmet            Tokyo, Japan          H+10,40, 1.5KW
+     2.8690    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 2 Family
+     2.8720    AVIA     Shannon, Gander                               Reported Oceanic ATC Coordination
+     2.8780    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     2.8780    AVIA     Offshore Drilling       Nationwide            Allocation
+     2.8780    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+     2.8870    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+     2.8990    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT B Family
+     2.9100    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     2.9320    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+     2.9440    AVIA     Aircraft, Ground        Middle East, USSR     MWARA MID 3 Family
+     2.9440    AVIA     Aircraft, Ground        NW and SW S. America  MWARA NW SAM and SW SAM Families
+     2.9560    VOLMET   Authorization           Middle East
+     2.9620    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT C Family
+     2.9650    VOLMET   Authorization           Southeast Asia
+     2.9650    VOLMET   Sydney Volmet, VLS      Sydney, NSW,          Skd. Bcst. H+00,30
+                                                Australia
+     2.9710    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT D Family
+     2.9920    AVIA     Aircraft, Ground        Middle East           MWARA MID 1 Family
+     2.9980    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+     3.0040    AVIA     Flight Test Freq.       Nationwide            Allocation
+     3.0040    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.0070    LDOC                             Auckland, NZ
+     3.0070    LDOC                             Jakarta, Indonesia
+     3.0070    LDOC                             Mexico City, MEX
+     3.0070    LDOC                             Rangoon, Burma
+     3.0070    LDOC     Air India               Bombay, India
+     3.0070    LDOC     Channel Authorization   Asia
+     3.0070    LDOC     Channel Authorization   North America
+     3.0070    LDOC     Cubana, BOYEROS         Havana, Cuba
+     3.0070    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+     3.0070    LDOC     Korean Air Lines        Seoul, Korea
+     3.0070    LDOC     Philippines Airways     Manila, PI
+     3.0070    LDOC     Quantas                 Sydney, Australia
+     3.0070    LDOC     Sydney Sky Coms.        Sydney, Australia
+     3.0070    LDOC     Thai Airlines           Bangkok, Thailand
+     3.0100    LDOC                             Lima, Peru
+     3.0100    LDOC                             Piarco, Trinidad
+     3.0100    LDOC     Aer Lingus              Dublin, Ireland
+     3.0100    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+     3.0100    LDOC     Air France              Paris, France
+     3.0100    LDOC     Avianca                 Bogota, Columbia
+     3.0100    LDOC     Berna Radio             Bern, Switzerland     O/R
+     3.0100    LDOC     Channel Authorization   Europe
+     3.0100    LDOC     Channel Authorization   South America
+     3.0100    LDOC     Lufthansa               Frankfurt, FRG
+     3.0100    LDOC     Olympic Airways         Athens, Greece
+     3.0100    LDOC     TAP                     Lisbon, Portugal
+     3.0130    LDOC     Channel Authorization   Africa
+     3.0130    LDOC     Channel Authorization   North America
+     3.0130    LDOC     East African Airways    Nairobi, Kenya
+     3.0130    LDOC     Egyptair                Cairo, Egypt
+     3.0130    LDOC     Gulf Air                Bahrain
+     3.0130    LDOC     Middle East Airlines,   Beirut, Lebanon
+                        CEDAR BASE
+     3.0130    LDOC     Saudi Airlines          Jeddah, SA
+     3.0130    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+     3.0160    AVIA     Aircraft, Ground        East Asia             MWARA EA 1 Family
+     3.0160    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT A Family
+     3.0190    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.0190    AVIA     Offshore Drilling       Nationwide            Allocation
+     3.0190    VOLMET   Authorization           North Central Asia
+     3.2810    AVIA     Flight Test Freq.       Nationwide            Allocation
+     3.4100    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.4110    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     3.4130    VOLMET   Shannon Aeradio         Shannon, Ireland      Shannon VOLMET schedule.
+     3.4130    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 1 Family
+     3.4190    AVIA     Aircraft, Ground        North Africa          MWARA AFI 2 Family
+     3.4250    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+     3.4280    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.4340    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.4340    AVIA     Offshore Drilling       Nationwide            Allocation
+     3.4430    AVIA     Flight Test Freq.       Nationwide            Allocation
+     3.4430    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     3.4520    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+     3.4520    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 1 Family
+     3.4580    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+     3.4670    AVIA     Aircraft, Ground        Middle East           MWARA MID 2 Family
+     3.4670    AVIA     Aircraft, Ground        South Pacific         MWARA SP Family
+     3.4670    AVIA     Aircraft, Ground        West Africa           MWARA AFI 3 Family
+     3.4700    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 1 and SEA 3 Families
+     3.4760    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+     3.4760    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT E Family (new June 1990)
+     3.4790    AVIA     Aircraft, Ground        Central S. Amer.      MWARA C SAM Family
+     3.4790    AVIA     Aircraft, Ground        NE S. America         MWARA NE SAM Family
+     3.4790    AVIA     Aircraft, Ground        Southeast S. Amer.    MWARA SE SAM Family
+     3.4820    LDOC     Portishead Radio        Portishead, England   British Telecom International, Flt. Opns.
+                                                                      Tfc. only
+     3.4850    VOLMET   Gander Aeradio          Gander, Newfoundland  H+20-30, 50-60, shared with New York.
+     3.4850    VOLMET   New York Radio          New York, NY, USA     H+00-20, 30-50, shared with Gander.
+     3.4850    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 2 Family
+     3.4940    LDOC     ARINC, New York         New York, NY
+     3.4940    LDOC     Channel Authorization   North America
+     3.4940    LDOC     Stockholm Radio         Stockholm, Sweden     HN, Short/Medium range
+     3.4970    LDOC     Channel Authorization   Europe
+     3.4970    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+     4.6540    LDOC     Berna Radio             Bern, Switzerland
+     4.6540    LDOC     Channel Authorization   Europe
+     4.6570    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+     4.6650    AVIA     MAF Net                 Latin America         Missionary Aviation Fellowship
+     4.6660    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+     4.6690    AVIA     Aircraft, Ground        Middle East, USSR     MWARA MID 3 Family
+     4.6690    AVIA     Aircraft, Ground        NW S. America         MWARA NW SAM Family
+     4.6690    AVIA     Aircraft, Ground        Southwest S. Amer.    MWARA SW SAM Family
+     4.6720    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     4.6720    AVIA     Offshore Drilling       Nationwide            Allocation
+     4.6750    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT D Family
+     4.6870    LDOC                             Rangoon, Burma
+     4.6870    LDOC     Alitalia                Rome, Italy
+     4.6870    LDOC     Channel Authorization   Asia
+     4.6870    LDOC     Channel Authorization   Europe
+     4.6870    LDOC     Japan Air               Tokyo, Japan
+     4.6870    LDOC     Korean Air Lines        Seoul, Korea
+     4.6870    LDOC     Lufthansa               Frankfurt, FRG
+     4.6870    LDOC     Thai Airlines           Bangkok, Thailand
+     4.6890    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     4.7220    VOLMET   RAF, Call Sign MVU      West Drayton, ENG     3 KW
+     4.8070    LDOC     Portishead Radio        Portishead, England   British Telecom International
+     5.3520    AVIA     Aircraft, Ground        North Africa          MWARA AFI 2 Family
+     5.4510    AVIA     Flight Test Freq.       Nationwide            Allocation
+     5.4510    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.4630    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.4630    AVIA     Offshore Drilling       Nationwide            Allocation
+     5.4690    AVIA     Flight Test Freq.       Nationwide            Allocation
+     5.4690    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.4900    AVIA     MAF Net                 Latin America         Missionary Aviation Fellowship
+     5.4930    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+     5.5080    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.5080    AVIA     Offshore Drilling       Nationwide            Allocation
+     5.5140    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.5190    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     5.5230    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.5260    AVIA     Aircraft, Ground        S. America            MWARA NE SAM, C SAM, SE SAM Families
+     5.5290    LDOC     Channel Authorization   Europe
+     5.5290    LDOC     Channel Authorization   North America
+     5.5290    LDOC     Iberia                  Las Palmas, CI
+     5.5290    LDOC     Iberia                  Madrid, Spain
+     5.5290    LDOC     Sabena                  Brussels, Belgium
+     5.5320    LDOC     Aer Lingus              Dublin, Ireland
+     5.5320    LDOC     Alitalia                Rome, Italy
+     5.5320    LDOC     Channel Authorization   Africa
+     5.5320    LDOC     Channel Authorization   Europe
+     5.5320    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+     5.5320    LDOC     TAP                     Lisbon, Portugal
+     5.5350    LDOC                             Piarco, Trinidad
+     5.5350    LDOC     Atlanta Flight Support  Atlanta, GA           Eastern Air Lines
+     5.5350    LDOC     Avianca                 Bogota, Columbia
+     5.5350    LDOC     Channel Authorization   Europe
+     5.5350    LDOC     Channel Authorization   South America
+     5.5350    LDOC     Lima Station            Lima, Peru            Operated by EAL
+     5.5350    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+     5.5380    LDOC     Channel Authorization   Africa
+     5.5380    LDOC     Channel Authorization   North America
+     5.5380    LDOC     Gulf Air                Bahrain
+     5.5380    LDOC     Middle East Airlines,   Beirut, Lebanon
+                                        CEDAR BASE
+     5.5410    LDOC     Channel Authorization   Europe
+     5.5410    LDOC     Stockholm Radio         Stockholm, Sweden
+     5.5440    LDOC                             Mexico City, MEX
+     5.5440    LDOC     Channel Authorization   Africa
+     5.5440    LDOC     Channel Authorization   North America
+     5.5440    LDOC     Cubana, BOYEROS         Havana, Cuba
+     5.5440    LDOC     Saudi Airlines          Jeddah, SA
+     5.5470    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 2 Family
+     5.5500    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+     5.5530    LDOC     Channel Authorization   South America
+     5.5620    LDOC     Channel Authorization   North America
+     5.5620    LDOC     Cubana                  Camaguey, Cuba
+     5.5620    LDOC     Cubana                  Santiago, Cuba
+     5.5620    LDOC     Cubana, BOYEROS         Havana, Cuba
+     5.5650    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 2 Family
+     5.5710    AVIA     Flight Test Freq.       Nationwide            Allocation
+     5.5710    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     5.5740    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 1 Family
+     5.5890    VOLMET   Authorization           Middle East
+     5.5980    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT A Family
+     5.6040    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+     5.6100    LDOC     Portishead Radio        Portishead, England   British Telecom International, Flt. Opns.
+                                                                      Tfc. Only
+     5.6160    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT B Family
+     5.6280    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+     5.6340    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+     5.6400    VOLMET   Shannon Aeradio         Shannon, Ireland      Shannon VOLMET schedule.
+     5.6430    AVIA     Aircraft, Ground        South Pacific         MWARA SP Family
+     5.6490    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT C Family
+     5.6550    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 2 Family
+     5.6580    AVIA     Aircraft, Ground        Middle East           MWARA MID 2 Family
+     5.6580    AVIA     Aircraft, Ground        West Africa           MWARA AFI 3 Family
+     5.6670    AVIA     Aircraft, Ground        Middle East           MWARA MID 1 Family
+     5.6760    VOLMET   Authorization           North Central Asia
+     5.7370    AVIA     Chalk Airlines          Miami, FL             Possible Bahamas Base Sta.
+     6.5260    LDOC     Caribbean Airways       Barbados, BWI         500 watts
+     6.5260    LDOC     Channel Authorization   Africa
+     6.5260    LDOC     Channel Authorization   Europe
+     6.5260    LDOC     Channel Authorization   North America
+     6.5260    LDOC     Gulf Air                Bahrain
+     6.5320    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+     6.5350    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+     6.5350    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 1 Family
+     6.5380    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     6.5470    LDOC     Channel Authorization   South America
+     6.5500    AVIA     Flight Test Freq.       Nationwide            Allocation
+     6.5500    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     6.5500    AVIA     Rockwell Flight Test    Cedar Rapids, IO
+     6.5560    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 1 and SEA 3 Families
+     6.5590    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     6.5590    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+     6.5620    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+     6.5650    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     6.5710    AVIA     Aircraft, Ground        East Asia             MWARA EA 1 Family
+     6.5740    AVIA     Aircraft, Ground        West Africa           MWARA AFI 3 Family
+     6.5770    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+     6.6040    VOLMET   Gander Aeradio          Gander, Newfoundland  H+20-30, 50-60, shared with New York.
+     6.6040    VOLMET   New York Radio          New York, NY          H+00-20, 30-50, shared with Gander.
+     6.6280    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT E Family (new June 1990)
+     6.6310    AVIA     Aircraft, Ground        Middle East, USSR     MWARA MID 3 Family
+     6.6340    LDOC     Portishead Radio        Portishead, England   British Telecom International, Flt. Opns.
+                                                                      Tfc. Only
+     6.6370    LDOC                             Auckland, NZ
+     6.6370    LDOC                             Jakarta, Indonesia
+     6.6370    LDOC                             Singapore
+     6.6370    LDOC     Air France              Paris, France
+     6.6370    LDOC     Air India               Bombay, India
+     6.6370    LDOC     ARINC, Houston          Houston, TX           Operated by Universal
+     6.6370    LDOC     Channel Authorization   Asia
+     6.6370    LDOC     Channel Authorization   Europe
+     6.6370    LDOC     Channel Authorization   North America
+     6.6370    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+     6.6370    LDOC     Japan Air               Tokyo, Japan
+     6.6370    LDOC     Lufthansa               Frankfurt, FRG
+     6.6370    LDOC     Olympic Airways         Athens, Greece
+     6.6370    LDOC     Philippines Airways     Manila, PI
+     6.6370    LDOC     Quantas                 Sydney, Australia
+     6.6400    LDOC     ARINC, New York         New York, NY
+     6.6400    LDOC     Channel Authorization   Africa
+     6.6400    LDOC     Channel Authorization   North America
+     6.6400    LDOC     East African Airways    Nairobi, Kenya
+     6.6400    LDOC     Egyptair                Cairo, Egypt
+     6.6430    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+     6.6430    LDOC     Berna Radio             Bern, Switzerland
+     6.6430    LDOC     Channel Authorization   Europe
+     6.6430    LDOC     Channel Authorization   South America
+     6.6460    LDOC     Channel Authorization   Africa
+     6.6460    LDOC     Channel Authorization   North America
+     6.6490    AVIA     Aircraft, Ground        NW S. America         MWARA NW SAM Family
+     6.6490    AVIA     Aircraft, Ground        Southwest S. Amer.    MWARA SW SAM Family
+     6.6550    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+     6.6730    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 2 Family
+     6.6730    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+     6.6760    VOLMET   Authorization           Southeast Asia
+     6.6790    VOLMET   Auckland VOLMET         Auckland, NZ          H+20,50
+     6.6790    VOLMET   Authorization           Pacific
+     6.6790    VOLMET   Hong Kong VOLMET        Hong Kong, SS         H+15,45
+     6.6790    VOLMET   Honolulu VOLMET         Honolulu, HI          H+00,30
+     6.6790    VOLMET   Tokyo Volmet            Tokyo, Japan          H+10,40, 1.5KW
+     7.6550    AVIA     Rockwell Collins        Cedar Rapids, IO      Reported
+     7.8800    VOLMET   NOAA                    Weather Broadcast     NWS, Not confirmed
+     8.1000    AVIA     Net in Bahamas          Miami and Bahamas     Miami, Freeport, Marsh Harbor, Governors
+                                                                      Harbor, Georgetown, Reported
+     8.1700    LDOC     Portishead Radio        Portishead, England   British Telecom Intn'l.
+     8.1850    LDOC     Portishead Radio        Portishead, England   British Telecom Intn'l.
+     8.8190    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+     8.8220    AVIA     Boeing Flight Test,     Wichita, Kansas
+                        KTF9
+     8.8220    AVIA     Flight Test Freq.       Nationwide            Allocation
+     8.8220    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     8.8220    AVIA     Rockwell Flight Test    Cedar Rapids, IO
+     8.8250    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT A Family
+     8.8260    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     8.8260    AVIA     Aircraft, Ground        Southwest S. Amer.    MWARA SW SAM Family
+     8.8280    VOLMET   Auckland VOLMET         Auckland, NZ          H+20,50
+     8.8280    VOLMET   Authorization           Pacific
+     8.8280    VOLMET   Hong Kong VOLMET        Hong Kong, SS         H+15,45
+     8.8280    VOLMET   Honolulu VOLMET         Honolulu, HI          H+00,30
+     8.8280    VOLMET   Tokyo Volmet            Tokyo, Japan          H+10,40, 1.5KW
+     8.8430    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 1 Family
+     8.8460    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+     8.8550    AVIA     Aircraft, Ground        Central S. Amer.      MWARA C SAM Family
+     8.8550    AVIA     Aircraft, Ground        NE S. America         MWARA NE SAM Family
+     8.8550    AVIA     Aircraft, Ground        Southeast S. Amer     MWARA SE SAM Family
+     8.8610    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+     8.8610    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 1 Family
+     8.8640    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT B Family
+     8.8670    AVIA     Aircraft, Ground        South Pacific         MWARA SP Family
+     8.8750    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+     8.8790    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+     8.8790    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT C Family
+     8.8850    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     8.8850    LDOC     Lima Station            Lima, Peru            Operated by EAL
+     8.8910    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT D Family
+     8.8940    AVIA     Aircraft, Ground        North Africa          MWARA AFI 2 Family
+     8.8960    LDOC                             Lima, Peru
+     8.8960    LDOC     Channel Authorization   South America
+     8.8970    AVIA     Aircraft, Ground        East Asia             MWARA EA 1 Family
+     8.9030    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+     8.9030    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+     8.9060    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT E Family (new June 1990)
+     8.9120    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+     8.9180    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+     8.9180    AVIA     Aircraft, Ground        Middle East           MWARA MID 1 Family
+     8.9210    LDOC                             Jakarta, Indonesia
+     8.9210    LDOC     Atlanta Flight Support  Atlanta, GA           Eastern Air Lines
+     8.9210    LDOC     Channel Authorization   Asia
+     8.9210    LDOC     Channel Authorization   Europe
+     8.9210    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+     8.9210    LDOC     Quantas                 Sydney, Australia
+     8.9210    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+     8.9240    LDOC                             Lima, Peru
+     8.9240    LDOC                             Piarco, Trinidad
+     8.9240    LDOC     Aer Lingus              Dublin, Ireland
+     8.9240    LDOC     Channel Authorization   Europe
+     8.9240    LDOC     Channel Authorization   South America
+     8.9240    LDOC     KLM                     Amsterdam,
+                                                Netherlands
+     8.9240    LDOC     Sabena                  Brussels, Belgium
+     8.9240    LDOC     TAP                     Lisbon, Portugal
+     8.9270    LDOC                             Mexico City, MEX
+     8.9270    LDOC     Channel Authorization   Africa
+     8.9270    LDOC     Channel Authorization   North America
+     8.9270    LDOC     Cubana, BOYEROS         Havana, Cuba
+     8.9270    LDOC     East African Airways    Nairobi, Kenya
+     8.9270    LDOC     Saudi Airlines          Jeddah, SA
+     8.9300    LDOC                             Karachi, Pakistan
+     8.9300    LDOC                             Singapore
+     8.9300    LDOC     Air India               Bombay, India
+     8.9300    LDOC     Channel Authorization   Asia
+     8.9300    LDOC     Channel Authorization   Europe
+     8.9300    LDOC     Stockholm Radio         Stockholm, Sweden
+     8.9300    LDOC     Sydney Sky Coms.        Sydney, Australia
+     8.9300    LDOC     Thai Airlines           Bangkok, Thailand
+     8.9330    LDOC     Channel Authorization   Africa
+     8.9330    LDOC     Channel Authorization   North America
+     8.9330    LDOC     Egyptair                Cairo, Egypt
+     8.9330    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+     8.9360    LDOC     Berna Radio             Bern, Switzerland
+     8.9360    LDOC     Channel Authorization   Europe
+     8.9360    LDOC     Channel Authorization   North America
+     8.9360    LDOC     Sydney Sky Coms.        Sydney, Australia
+     8.9380    LDOC     Avianca                 Bogota, Columbia
+     8.9380    LDOC     Avianca                 Cali, Columbia
+     8.9380    LDOC     Avianca                 Cartegena, COL
+     8.9380    LDOC     Avianca                 San Andres, COL
+     8.9380    LDOC     Channel Authorization   South America
+     8.9390    LDOC     Channel Authorization   South America
+     8.9420    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 2 Family
+     8.9450    LDOC     Caribbean Airways       Barbados, BWI         500 watts
+     8.9450    VOLMET   Authorization           Middle East
+     8.9510    AVIA     Aircraft, Ground        Middle East, USSR     MWARA MID 3 Family
+     8.9510    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+     8.9540    LDOC     Channel Authorization   North America
+     8.9570    VOLMET   Shannon Aeradio         Shannon, Ireland      Shannon VOLMET schedule.
+     8.9600    LDOC     Portishead Radio        Portishead, England   British Telecom International, Flt. Opns.
+                                                                      Tfc. Only
+     8.9760    AVIA     Lockheed, KMN2          Palmdale, CA
+    10.0180    AVIA     Aircraft, Ground        Middle East           MWARA MID 2 Family
+    10.0240    AVIA     Aircraft, Ground        NW S. America         MWARA NW SAM Family
+    10.0240    AVIA     Aircraft, Ground        Southwest S. Amer.    MWARA SW SAM Family
+    10.0270    LDOC     Alitalia                Rome, Italy
+    10.0270    LDOC     Channel Authorization   Europe
+    10.0270    LDOC     Channel Authorization   North America
+    10.0270    LDOC     Iberia                  Las Palmas, CI
+    10.0270    LDOC     Iberia                  Madrid, Spain
+    10.0300    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+    10.0300    LDOC     Channel Authorization   Europe
+    10.0300    LDOC     Channel Authorization   South America
+    10.0330    LDOC     Channel Authorization   Africa
+    10.0330    LDOC     Channel Authorization   North America
+    10.0390    LDOC                             Mexico City, MEX
+    10.0390    LDOC     Channel Authorization   North America
+    10.0420    AVIA     Aircraft, Ground        East Asia             MWARA EA 1 Family
+    10.0450    AVIA     Flight Test Freq.       Nationwide            Allocation
+    10.0450    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    10.0480    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+    10.0510    VOLMET   Gander Aeradio          Gander, Newfoundland  H+20-30, 50-60, shared with New York.
+    10.0510    VOLMET   New York Radio          New York, NY, USA     H+00-20, 30-50, shared with Gander.
+    10.0570    VOLMET   Authorization           Africa
+    10.0570    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 1 Family
+    10.0660    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 1 Family
+    10.0690    LDOC     Berna Radio             Bern, Switzerland
+    10.0690    LDOC     Channel Authorization   Europe
+    10.0720    LDOC                             Auckland, NZ
+    10.0720    LDOC                             Jakarta, Indonesia
+    10.0720    LDOC     Air India               Bombay, India
+    10.0720    LDOC     Channel Authorization   Asia
+    10.0720    LDOC     Channel Authorization   Europe
+    10.0720    LDOC     Korean Air Lines        Seoul, Korea
+    10.0720    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+    10.0720    LDOC     Sydney Sky Coms.        Sydney, Australia
+    10.0750    LDOC     ARINC, Houston          Houston, TX           Operated by Universal
+    10.0750    LDOC     Channel Authorization   Africa
+    10.0750    LDOC     Channel Authorization   North America
+    10.0750    LDOC     Middle East Airlines,   Beirut, Lebanon
+                        CEDAR BASE
+    10.0780    LDOC                             Singapore
+    10.0780    LDOC     Channel Authorization   Asia
+    10.0780    LDOC     Channel Authorization   Europe
+    10.0780    LDOC     Lufthansa               Frankfurt, FRG
+    10.0780    LDOC     Olympic Airways         Athens, Greece
+    10.0780    LDOC     Quantas                 Sydney, Australia
+    10.0780    LDOC     Sabena                  Brussels, Belgium
+    10.0840    AVIA     Aircraft, Ground        Europe, Middle East   MWARA EUM A Family
+    10.0930    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    10.0930    LDOC     Air France              Paris, France
+    10.0930    LDOC     Channel Authorization   Africa
+    10.0930    LDOC     Channel Authorization   Europe
+    10.0930    LDOC     Gulf Air                Bahrain
+    10.0960    AVIA     Aircraft, Ground        Central S. Amer.      MWARA C SAM Family
+    10.0960    AVIA     Aircraft, Ground        NE S. America         MWARA NE SAM Family
+    10.0960    AVIA     Aircraft, Ground        Southeast S. Amer.    MWARA SE SAM Family
+    10.2910    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    11.2000    VOLMET   RAF, Call Sign MVU      West Drayton, ENG     3 KW
+    11.2790    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT D Family
+    11.2820    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 2 Family
+    11.2880    AVIA     Flight Test Freq.       Nationwide            Allocation
+    11.2880    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    11.2910    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 2 Family
+    11.2970    VOLMET   Authorization           North Central Asia
+    11.3000    AVIA     Aircraft, Ground        West Africa           MWARA AFI 3 Family
+    11.3060    AVIA     Flight Test Freq.       Nationwide            Allocation
+    11.3060    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    11.3060    LDOC     Lima Station            Lima, Peru            Operated by EAL
+    11.3060    LDOC     Portishead Radio        Portishead, England   British Telecom International, Flt. Opns.
+                                                                      Tfc. Only
+    11.3090    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT E Family (new June 1990)
+    11.3270    LDOC     Channel Authorization   South America
+    11.3300    AVIA     Aircraft, Ground        North Pacific         MWARA NP Family
+    11.3390    LDOC     Channel Authorization   South America
+    11.3420    LDOC     ARINC, Honolulu         Honolulu, Hawaii
+    11.3420    LDOC     ARINC, New York         New York, NY
+    11.3420    LDOC     Channel Authorization   Asia
+    11.3420    LDOC     Channel Authorization   North America
+    11.3420    LDOC     Japan Air               Tokyo, Japan
+    11.3420    LDOC     Sydney Sky Coms.        Sydney, Australia
+    11.3450    LDOC                             Lima, Peru
+    11.3450    LDOC                             Piarco, Trinidad
+    11.3450    LDOC     Atlanta Flight Support  Atlanta, GA           Eastern Air Lines
+    11.3450    LDOC     Avianca                 Bogota, Columbia
+    11.3450    LDOC     Channel Authorization   Europe
+    11.3450    LDOC     Channel Authorization   South America
+    11.3450    LDOC     Stockholm Radio         Stockholm, Sweden
+    11.3480    LDOC     Channel Authorization   Africa
+    11.3480    LDOC     Channel Authorization   North America
+    11.3510    LDOC                             Karachi, Pakistan
+    11.3510    LDOC                             Rangoon, Burma
+    11.3510    LDOC     Air France              Paris, France
+    11.3510    LDOC     Channel Authorization   Asia
+    11.3510    LDOC     Channel Authorization   Europe
+    11.3510    LDOC     Philippines Airways     Manila, PI
+    11.3540    LDOC     Channel Authorization   Africa
+    11.3540    LDOC     Gulf Air                Bahrain
+    11.3540    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+    11.3600    AVIA     Aircraft, Ground        NW S. America         MWARA NW SAM Family
+    11.3600    AVIA     Aircraft, Ground        Southwest S. Amer.    MWARA SW SAM Family
+    11.3660    LDOC     Channel Authorization   South America
+    11.3750    LDOC     Channel Authorization   South America
+    11.3750    AVIA     Aircraft, Ground        Middle East, USSR     MWARA MID 3 Family
+    11.3840    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+    11.3870    VOLMET   Authorization           Southeast Asia
+    11.3870    VOLMET   Sydney Volmet, VLS      Sydney, NSW,          Skd. Bcst. H+00,30
+                                                Australia
+    11.3900    LDOC     American Airlines?      New York, NY          CH KB?, Handling AAL and CAL flights
+    11.3900    LDOC     Channel Authorization   North America
+    11.3930    LDOC                             Lima, Peru
+    11.3930    LDOC     Channel Authorization   South America
+    11.3960    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+    11.3960    AVIA     Aircraft, Ground        East Asia             MWARA EA 2 Family
+    11.3960    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 2 and SEA 3 Families
+    12.1330    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    13.2050    LDOC     Berna Radio             Bern, Switzerland
+    13.2050    LDOC     Universal Radio?        Houston, TX?          Reported PP for Cathay for German weather
+    13.2600    LDOC     Caribbean Airways       Barbados, BWI         500 watts
+    13.2610    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP Family
+    13.2610    AVIA     Aircraft, Ground        South Pacific         MWARA SP Family
+    13.2640    VOLMET   Shannon Aeradio         Shannon, Ireland      Shannon VOLMET schedule.
+    13.2700    VOLMET   Gander Aeradio          Gander, Newfoundland  H+20-30, 50-60, shared with New York.
+    13.2700    VOLMET   New York Radio          New York, NY, USA     H+00-20, 30-50, shared with Gander.
+    13.2730    AVIA     Aircraft, Ground        N. and S. Pacific     MWARA NP and SP Families
+    13.2730    AVIA     Aircraft, Ground        North Africa          MWARA AFI 2 Family
+    13.2820    VOLMET   Auckland VOLMET         Auckland, NZ          H+20,50
+    13.2820    VOLMET   Authorization           Pacific
+    13.2820    VOLMET   Hong Kong VOLMET        Hong Kong, SS         H+15,45
+    13.2820    VOLMET   Honolulu VOLMET         Honolulu, HI          H+00,30
+    13.2820    VOLMET   Oakland VOLMET          Oakland, CA
+    13.2820    VOLMET   Tokyo VOLMET            Tokyo, Japan          H+10,40, 1.5KW
+    13.2850    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+    13.2860    LDOC     Wardair Operations      Toronto, CA
+    13.2880    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 2 Family
+    13.2880    AVIA     Aircraft, Ground        Middle East           MWARA MID 2 Family
+    13.2880    AVIA     Aircraft, Ground        West Africa           MWARA AFI 3 Family
+    13.2910    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT BD Families
+    13.2940    AVIA     Aircraft, Ground        East Africa           MWARA AFI 4 Family
+    13.2970    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+    13.2970    AVIA     Aircraft, Ground        Central S. Amer.      MWARA C SAM Family
+    13.2970    AVIA     Aircraft, Ground        East Asia             MWARA EA 1 Family
+    13.3000    AVIA     Aircraft, Ground        Central West Pacific  MWARA CWP Family
+    13.3030    VOLMET   Authorization           North Central Asia
+    13.3060    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+    13.3060    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT AC Families
+    13.3090    LDOC     Channel Authorization   South America
+    13.3090    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 2 Family
+    13.3120    AVIA     Boeing Co., KOX3        Seattle, WA
+    13.3120    AVIA     Flight Test Freq.       Nationwide            Allocation
+    13.3120    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    13.3120    AVIA     Rockwell Flight Test    Cedar Rapids, IO      Testing with N1, Gulfstream II of USCG
+    13.3120    AVIA     Aircraft, Ground        Middle East           MWARA MID 1 Family
+    13.3150    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 2 Family
+    13.3180    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 1 and SEA 3 Families
+    13.3240    LDOC     Channel Authorization   Asia
+    13.3240    LDOC     Channel Authorization   Europe
+    13.3240    LDOC     Japan Air               Tokyo, Japan
+    13.3270    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+    13.3270    LDOC     Channel Authorization   Europe
+    13.3270    LDOC     Channel Authorization   South America
+    13.3270    LDOC     Lufthansa               Frankfurt, FRG
+    13.3270    LDOC     Olympic Airways         Athens, Greece
+    13.3300    LDOC     ARINC, Houston          Houston, TX           Operated by Universal
+    13.3300    LDOC     ARINC, New York         New York, NY
+    13.3300    LDOC     Channel Authorization   Africa
+    13.3300    LDOC     Channel Authorization   North America
+    13.3300    LDOC     Middle East Airlines,   Beirut, Lebanon
+                        CEDAR BASE
+    13.3300    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+    13.3330    LDOC                             Auckland, NZ
+    13.3330    LDOC                             Singapore
+    13.3330    LDOC     Channel Authorization   Asia
+    13.3330    LDOC     Channel Authorization   Europe
+    13.3330    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+    13.3330    LDOC     Korean Air Lines        Seoul, Korea
+    13.3330    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+    13.3360    LDOC                             Piarco, Trinidad
+    13.3360    LDOC     Alitalia                Rome, Italy
+    13.3360    LDOC     Avianca                 Bogota, Columbia
+    13.3360    LDOC     Channel Authorization   Europe
+    13.3360    LDOC     Channel Authorization   South America
+    13.3360    LDOC     TAP                     Lisbon, Portugal
+    13.3390    LDOC                             Mexico City, MEX
+    13.3390    LDOC     Channel Authorization   Africa
+    13.3390    LDOC     Channel Authorization   North America
+    13.3390    LDOC     Cubana, BOYEROS         Havana, Cuba
+    13.3390    LDOC     East African Airways    Nairobi, Kenya
+    13.3390    LDOC     Gulf Air                Bahrain
+    13.3390    LDOC     Saudi Airlines          Jeddah, SA
+    13.3420    LDOC                             Karachi, Pakistan
+    13.3420    LDOC                             Rangoon, Burma
+    13.3420    LDOC     Channel Authorization   Asia
+    13.3420    LDOC     Channel Authorization   Europe
+    13.3420    LDOC     Stockholm Radio         Stockholm, Sweden
+    13.3450    LDOC     Channel Authorization   Europe
+    13.3480    LDOC     Channel Authorization   Africa
+    13.3480    LDOC     Channel Authorization   North America
+    13.3510    LDOC                             Jakarta, Indonesia
+    13.3510    LDOC     Aer Lingus              Dublin, Ireland
+    13.3510    LDOC     Air France              Paris, France
+    13.3510    LDOC     Air India               Bombay, India
+    13.3510    LDOC     Channel Authorization   Asia
+    13.3510    LDOC     Channel Authorization   Europe
+    13.3510    LDOC     Philippines Airways     Manila, PI
+    13.3510    LDOC     Sabena                  Brussels, Belgium
+    13.3510    LDOC     Thai Airlines           Bangkok, Thailand
+    13.3520    VOLMET   Authorization           South America
+    13.3540    LDOC     ARINC, Honolulu         Honolulu, Hawaii
+    13.3540    AVIA     Aircraft, Ground        Central East Pacific  MWARA CEP 1 Family
+    13.3560    LDOC     Aeradio Jamaica         Kingston, Jamaica
+    13.3570    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+    13.3570    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 1 Family
+    13.4200    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+    13.8650    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    13.9570    LDOC     American Air Lines      AAL, Ft. Worth, TX    Reported ?
+    14.8900    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    15.0460    LDOC     Berna Radio             Bern, Switzerland
+    16.3700    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    17.4050    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    17.4850    LDOC     Caribbean Airways       Barbados, BWI         500 watts (may be old frequency)
+    17.9040    AVIA     Aircraft, Ground        Pacific (all areas)   MWARA NP, CEP 1, CEP 2, CWP, SP Families
+    17.9070    AVIA     Aircraft, Ground        Caribbean             MWARA CAR A Family
+    17.9070    AVIA     Aircraft, Ground        S. America (all       MWARA NE SAM, NW SAM, C SAM, SE SAM, SW SAM
+                                                areas)                Families
+    17.9070    AVIA     Aircraft, Ground        Southeast Asia        MWARA SEA 3 Family
+    17.9100    LDOC     Caribbean Airways       Barbados, BWI         500 watts
+    17.9100    LDOC     Rainbow Radio           Morinville, AL, CAN   Call Edmonton
+    17.9160    LDOC                             Jakarta, Indonesia
+    17.9160    LDOC     Aer Lingus              Dublin, Ireland
+    17.9160    LDOC     Air France              Paris, France
+    17.9160    LDOC     Air India               Bombay, India
+    17.9160    LDOC     Channel Authorization   Asia
+    17.9160    LDOC     Channel Authorization   Europe
+    17.9160    LDOC     Korean Air Lines        Seoul, Korea
+    17.9160    LDOC     Olympic Airways         Athens, Greece
+    17.9160    LDOC     Philippines Airways     Manila, PI
+    17.9160    LDOC     Stockholm Radio         Stockholm, Sweden
+    17.9190    LDOC                             Mexico City, MEX
+    17.9190    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+    17.9190    LDOC     Channel Authorization   North America
+    17.9190    LDOC     Channel Authorization   South America
+    17.9200    LDOC     Thai Airlines           Bangkok, Thailand
+    17.9220    LDOC     Channel Authorization   Asia
+    17.9220    LDOC     Channel Authorization   Europe
+    17.9220    LDOC     Quantas                 Sydney, Australia
+    17.9220    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+    17.9250    LDOC     ARINC, New York         New York, NY
+    17.9250    LDOC     Channel Authorization   Africa
+    17.9250    LDOC     Channel Authorization   North America
+    17.9250    LDOC     Saudi Airlines          Jeddah, SA
+    17.9250    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+    17.9280    LDOC                             Piarco, Trinidad
+    17.9280    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+    17.9280    LDOC     Avainca                 Bogota, Columbia
+    17.9280    LDOC     Channel Authorization   Asia
+    17.9280    LDOC     Channel Authorization   South America
+    17.9280    LDOC     Japan Air               Tokyo, Japan
+    17.9310    LDOC     Channel Authorization   Africa
+    17.9310    LDOC     Channel Authorization   Europe
+    17.9310    LDOC     East African Airways    Nairobi, Kenya
+    17.9310    LDOC     Egyptair                Cairo, Egypt
+    17.9310    LDOC     Gulf Air                Bahrain
+    17.9310    LDOC     Lufthansa               Frankfurt, FRG
+    17.9310    LDOC     Middle East Airlines,   Beirut, Lebanon
+                        CEDAR BASE
+    17.9340    LDOC                             Rangoon, Burma
+    17.9340    LDOC                             Singapore
+    17.9340    LDOC     Channel Authorization   Asia
+    17.9340    LDOC     Channel Authorization   North America
+    17.9340    LDOC     Cubana, BOYEROS         Havana, Cuba
+    17.9340    LDOC     Sydney Sky Coms.        Sydney, Australia
+    17.9370    LDOC     Channel Authorization   Africa
+    17.9370    LDOC     Channel Authorization   South America
+    17.9370    LDOC     Lima Radio              Lima, Peru            Operated by EAL
+    17.9400    LDOC                             Auckland, NZ
+    17.9400    LDOC                             Karachi, Pakistan
+    17.9400    LDOC     Alitalia                Rome, Italy
+    17.9400    LDOC     ARINC, Houston          Houston, TX           Operated by Universal
+    17.9400    LDOC     Channel Authorization   Asia
+    17.9400    LDOC     Channel Authorization   Europe
+    17.9400    LDOC     Channel Authorization   North America
+    17.9400    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+    17.9400    LDOC     Iberia                  Las Palmas, CI
+    17.9400    LDOC     Iberia                  Madrid, Spain
+    17.9400    LDOC     Sabena                  Brussels, Belgium
+    17.9400    LDOC     Sydney Sky Coms.        Sydney, Australia
+    17.9400    LDOC     TAP                     Lisbon, Portugal
+    17.9460    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT ABCD Families
+    17.9460    AVIA     Aircraft, Ground        North Atlantic        MWARA NAT E Family (new June 1990)
+    17.9550    AVIA     Aircraft, Ground        East Africa           MWARA AFI 1 Family
+    17.9550    AVIA     Aircraft, Ground        South Atlantic        MWARA SAT 1 and SAT 2 Families
+    17.9610    AVIA     Aircraft, Ground        Indian Ocean          MWARA INO 1 Family
+    17.9610    AVIA     Aircraft, Ground        N and W Africa        MWARA AFI 2 and AFI 3 Families
+    17.9640    AVIA     Flight Test Freq.       Nationwide            Allocation
+    17.9640    AVIA     ICAO Regional Freq.     Region 11-B (USA)     Allocation, USA may assign
+    18.0230    LDOC     Berna Radio             Bern, Switzerland
+    18.2100    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    19.5100    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    20.0650    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    21.7650    LDOC     Portishead Radio        Portishead, England   British Telecom International
+    21.9310    AVIA     Flight Test Freq.       Nationwide            Allocation
+    21.9400    LDOC     Air France              Paris, France
+    21.9400    LDOC     Channel Authorization   Europe
+    21.9430    LDOC     Channel Authorization   Africa
+    21.9430    LDOC     Gulf Air                Bahrain
+    21.9430    LDOC     Middle East Airlines,   Beirut, Lebanon
+                        CEDAR BASE
+    21.9430    LDOC     Springbok Joburg, ZUR   Johannesburg, SA      South African Airways
+    21.9460    LDOC     Channel Authorization   Europe
+    21.9460    LDOC     Speedbird London        London, England       10KW Trans. at Rugby, Recr. at Cobbett Hill,
+                                                                      Op. by British Airways
+    21.9490    LDOC                             Rangoon, Burma
+    21.9490    LDOC                             Singapore
+    21.9490    LDOC     Air India               Bombay, India
+    21.9490    LDOC     Channel Authorization   Asia
+    21.9490    LDOC     Japan Air               Tokyo, Japan
+    21.9490    LDOC     Philippines Airways     Manila, PI
+    21.9520    LDOC     Aer Lingus              Dublin, Ireland
+    21.9520    LDOC     Alitalia                Rome, Italy
+    21.9520    LDOC     Channel Authorization   Europe
+    21.9520    LDOC     TAP                     Lisbon, Portugal
+    21.9550    LDOC                             Piarco, Trinidad
+    21.9550    LDOC     Aerol. Argentinas       Buenos Aires, ARG
+    21.9550    LDOC     Avianca                 Bogota, Columbia
+    21.9550    LDOC     Channel Authorization   South America
+    21.9580    LDOC     Channel Authorization   Europe
+    21.9610    LDOC     Channel Authorization   Africa
+    21.9640    LDOC     ARINC, Honolulu         Honolulu, HI
+    21.9640    LDOC     ARINC, Houston          Houston, TX           Operated by Universal
+    21.9640    LDOC     ARINC, New York         New York, NY
+    21.9640    LDOC     Channel Authorization   North America
+    21.9670    LDOC     Channel Authorization   Europe
+    21.9670    LDOC     Iberia                  Las Palmas, CI
+    21.9670    LDOC     Iberia                  Madrid, Spain
+    21.9700    LDOC                             Auckland, NZ
+    21.9700    LDOC                             Jakarta, Indonesia
+    21.9700    LDOC                             Karachi, Pakistan
+    21.9700    LDOC     Channel Authorization   Asia
+    21.9700    LDOC     Dragon Radio            Hong Kong, SS         Caledonian Far East Radio
+    21.9700    LDOC     Korean Air Lines        Seoul, Korea
+    21.9700    LDOC     Quantas                 Sydney, Australia
+    21.9700    LDOC     Thai Airlines           Bangkok, Thailand
+    21.9730    LDOC     Channel Authorization   Europe
+    21.9760    LDOC                             Lima, Peru
+    21.9760    LDOC     Channel Authorization   South America
+    21.9790    LDOC     Channel Authorization   Europe
+    21.9790    LDOC     Lufthansa               Frankfurt, FRG
+    21.9790    LDOC     Olympic Airways         Athens, Greece
+    21.9820    LDOC     Channel Authorization   Africa
+    21.9820    LDOC     East African Airways    Nairobi, Kenya
+    21.9820    LDOC     Egyptair                Cairo, Egypt
+    21.9850    LDOC     Channel Authorization   North America
+    21.9850    LDOC     Cubana, BOYEROS         Havana, Cuba
+    21.9880    LDOC     Berna Radio             Bern, Switzerland     HD
+    21.9880    LDOC     Channel Authorization   Europe
+    21.9940    LDOC     Channel Authorization   Africa
+    21.9940    LDOC     Saudi Airlines          Jeddah, SA
+    21.9970    LDOC     Channel Authorization   Europe
+    23.2100    LDOC     Stockholm Radio         Stockholm, Sweden     HD
+    23.2850    LDOC     Berna Radio             Bern, Switzerland     HD
+    25.5000    LDOC     Berna Radio             Bern, Switzerland     HD

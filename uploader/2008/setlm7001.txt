@@ -1,0 +1,102 @@
+;Ïðèìåð óïðàâëåíèÿ LM7001 è ïðîãðàììíûé I2C íà ëþáîì âûâîäå êîíòðîëåðà â ïðäà÷ó. :)
+
+lm7001:	;	tmp1=hi, tmp2=lo, status=status lm7001
+	push	tmp
+	push	data
+
+	sbi	portd,mlce
+
+	mov	data,tmp2
+	rcall	lmbt
+	mov	data,tmp1
+	rcall	lmbt
+	mov	data,status
+	rcall	lmbt
+
+	cbi	portd,mlce
+
+	pop	data
+	pop	tmp
+	ret
+
+lmbt:	ldi	tmp,8
+lmbt1:	sbrs	data,0
+	cbi	portd,mldata
+	sbrc	data,0
+	sbi	portd,mldata
+
+	rcall	i2c_10us	
+	sbi	portd,mlcl
+	rcall	i2c_10us
+	cbi	portd,mlcl
+	ror	data
+	dec	tmp
+	brne	lmbt1
+	ret	
+
+
+zad1ms:	push	tmp
+	ldi	tmp,10
+zad1ms1:rcall	i2c_10us
+	dec	tmp
+	brne	zad1ms1
+	pop	tmp	
+	ret
+
+;¯à®£à ¬¬­ ï ¯®â¤¥à¦ª  è¨­ë è2á ­  «î¡ëå ¢ë¢®¤  ¯à®æ¥áá®à 
+;ª®àà¥ªâ­ ï ®¡à ¡®âª  á¨£­ «  ACK
+i2c_start:
+	sbi	portd,clk
+	sbi	portd,sda	
+	rcall	i2c_10us
+	cbi	portd,sda
+	rcall	i2c_10us
+	cbi	portd,clk
+	ret
+i2c_stop:
+	cbi	portd,sda
+	sbi	portd,clk
+	rcall	i2c_10us
+	sbi	portd,sda	
+	ret
+i2c_sync:
+	rcall	i2c_10us
+	sbi	portd,clk
+	rcall	i2c_10us
+	cbi	portd,clk
+	ret
+
+i2c_byte:		;input byte -> DATA
+	push	tmp	
+	ldi	tmp,8
+i2c_byte_1:
+	sbrs	data,7
+	cbi	portd,sda
+	sbrc	data,7
+	sbi	portd,sda
+	rcall	i2c_sync
+	rol	data
+	dec	tmp
+	brne	i2c_byte_1
+	cbi	ddrd,sda
+	rcall	i2c_sync
+	sbi	ddrd,sda
+	pop	tmp
+	ret
+
+i2c_10us:		
+	push	tmp
+	ldi	tmp,3	
+i2c_10us_1:
+	dec	tmp
+	brne	i2c_10us_1
+	pop	tmp	
+	nop
+	ret
+
+zad:	push	tmp
+	ldi	tmp,0	
+zad1:	dec	tmp
+	brne	zad1
+	pop	tmp
+	ret

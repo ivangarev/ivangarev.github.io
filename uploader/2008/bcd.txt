@@ -1,0 +1,81 @@
+;краткое по€снение: модуль дл€ контролеров атмел/атмега и.т.д
+;на входе двоичное 32-разр€дное значение в регистрах byte_1-byte_4
+;на выходе двоично-дес€тичное значение в регистрах bcd_1-bcd_5
+;соответствие регистров bcd_1-bcd_5 и byte_1-byte_4 к реальным
+;регистрам процессора - делайте сами :)
+
+
+bcd:	
+	push	byte_1
+	push	byte_2
+	push	byte_3
+	push	byte_4
+	
+alu0:	clr	tmp
+	mov	bcd_1,tmp
+	mov	bcd_2,tmp
+	mov	bcd_3,tmp
+	mov	bcd_4,tmp
+	mov	bcd_5,tmp		
+	ldi	tmp,32
+alu1:	clc
+	rol	byte_1
+	rol	byte_2
+	rol	byte_3
+	rol	byte_4
+	rol	bcd_1
+	rol	bcd_2
+	rol	bcd_3
+	rol	bcd_4
+	rol	bcd_5
+	dec	tmp
+	breq	alu6
+	
+	mov	data,bcd_1
+	rcall	als
+	mov	bcd_1,data
+	mov	data,bcd_2
+	rcall	als
+	mov	bcd_2,data
+	mov	data,bcd_3
+	rcall	als
+	mov	bcd_3,data
+	mov	data,bcd_4
+	rcall	als
+	mov	bcd_4,data
+	mov	data,bcd_5
+	rcall	als
+	mov	bcd_5,data
+	rjmp	alu1
+
+;	data=bcd_xx registers	
+als:	push	tmp
+	push	tmp1
+	ldi	tmp1,3
+	mov	tmp,data
+
+	cbr	data,$f0
+	add	data,tmp1	
+	cpi	data,8
+	brsh	als1
+	sub	data,tmp1
+als1:	push	data
+	mov	data,tmp
+	cbr	data,$0f
+	swap	data
+	add	data,tmp1
+	cpi	data,8
+	brsh	als2
+	sub	data,tmp1
+als2:	swap	data
+	pop	tmp
+	add	data,tmp
+	pop	tmp1
+	pop	tmp
+alu5:	ret
+
+alu6:	pop	byte_4
+	pop	byte_3
+	pop	byte_2
+	pop	byte_1
+	ret

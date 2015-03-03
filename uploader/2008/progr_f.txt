@@ -1,0 +1,103 @@
+;Synthesizer--SI145M---1996--------------------
+;Михаил Кислинский.   aktay@online.ural.ru  
+;ПЧ=10700.    WDT ON.   F_RC_osc=50...100кГц.
+;__Files:_________________________               
+count   equ     0C  ;счетчик
+bufB    equ     0E  ;буфер порта В,
+rotate  equ     0F  ;ротация DATA
+switch  equ     10  ;младшие 6 бит из порта B и результат обработки
+;__Ports:_________________________
+port_a  equ     5
+port_b  equ     6
+;-----------------------------------------------------
+        list p=16C54
+;-----------------------------------------------------
+        org     0
+;Subroutine---выдать байт из rotate последовательно в RA0---
+send    movwf   rotate    ;байт из W в файл rotate
+        clrf    count     ;загрузить 8 
+        bsf     count,3   ;     в счетчик бит.
+        bcf     3,0       ;сброс cary
+next    rlf     rotate,f  ;сдвиг rotate влево (через Cary)
+        btfsc   3,0       ;если Cary=0 skip
+        bsf     port_a,0  ;установить DATA=1
+        btfss   3,0       ;если Сary=1 skip
+        bcf     port_a,0  ;уст. DATA=0
+        bsf     port_a,1  ;CLK=1 _-
+        bcf     port_a,1  ;   =0   -_   тактовый импульс.
+        decfsz  count,1   ;проверить счетчик бит.
+        goto    next      ;не равен 0. Следующий бит.
+        retlw   0         ;выход из п\программы.
+;#########################################################
+start   movlw   0      ;байт конфигурации контроллера в W
+        option         ;  W в option register.
+        movlw   8      ;байт конфигурации порта в W.
+        tris    5      ;  3 младших разряда RA на вывод, старший на ввод.
+        movlw   3F     ;загрузить невозможную F
+;_____Контроль захвата ФАПЧ____________
+        btfss   port_a,3   ;skip если есть захват
+        movwf   bufB       ;W в bufB
+;---опрос переключателей--------------
+begin   movf    bufB,w     ;из bufB в W
+        xorwf   port_b,w   ;сравнить порт B и старый байт из bufB
+        btfsc   3,2        ;
+        sleep              ;старое положение. Спать до срабатывания WDT
+;               при срабатывании WDT стартовый адрес- 1FF (goto  start)
+        movf    port_b,w   ;новая частота. Загрузить 1508ПЛ1.
+        movwf   bufB       ;      в буфер bufB
+        movlw   3F         ;берем
+        andwf   bufB,w     ;    6мл.бит и помещаем
+        movwf   switch     ;        в switch 
+        movlw   1          ;выдать в 1508ПЛ1
+        call    send       ;      1й байт - 01 (всегда 01)
+;----проверка переключателя 144/145---------------
+        btfsc   port_b,6
+        goto    Band145
+;-----144--------------------
+        rlf     switch,f   ;умножить на 2 
+        bcf     switch,0   ;проф.очистка 0го бита  
+        btfss   port_b,7   ;ПРД ?
+        goto    RX144      ;-нет
+;-----TX144------------------
+        movlw   2D         ;выдать 2-й байт 2D
+        call    send
+;-----третий байт------------
+Third   movf    switch,w   ;из switch в W
+        call    send       ;выдать третий байт
+        goto    strob      ;выдать строб. Возврат к опросу PB
+;======RX144==============================
+RX144   movlw   29
+        call    send       ;выдать 2-й байт- 29
+        movlw   0A8
+        addwf   switch,f   ;прибавить A8 к switch
+        goto    Third      ;выдать 3й байт
+;=====анaлиз RX/TX========================
+Band145 movlw   28
+        addwf   switch,f   ;прибаввить 28(hex) к switch
+        rlf     switch,f   ;X2
+        bcf     switch,0   ;очистка младшего бита
+        btfss   port_b,7   ;ПРД ?
+        goto    RX145      ; прием
+;------TX 145--------------------
+TX145   movlw   2D         ; передача
+        call    send       ;выдать 2-й байт- 2D
+        goto    Third      ;и третий
+;=====RX 145=======================
+RX145   movlw   0A8        ;прибавить A8 
+        addwf   switch,f   ;         к switch
+        btfss   3,0        ;контроль переполнения
+        goto    R51
+        movlw   2A         ;есть Cary. 2й байт=2A (145100...145975)
+R52     call    send       ;выдать 2й байт 
+        goto    Third      ; 3-ий
+R51     movlw   29         ;2й байт=29 (145000...145075)
+        goto    R52
+;=====Строб=======================
+strob   bsf     port_a,2   ;1 _-
+        bcf     port_a,2   ;0   -_
+        goto    begin      ;вернуться к опросу порта B
+;==================================
+        org     1FF     ;стартовый адрес PIC16C54 = 1FF
+        goto    start
+        end
+;__________________________________

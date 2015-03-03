@@ -1,0 +1,346 @@
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 5  Msg. no: C04A
+Flight id: AY0156
+Message content:-
+#CFBACMF SNAPSHOT REPORT 2008JAN06 17:41:36
+A/C OH-LEM
+SWVER 17.6 APPVER 1.1.1    APPNAME OEM.ACM
+SIZE 2103
+DL_CRUISE_REPORT_20080106174136S.CSV
+170LDI19.3V17.6-C-V06
+R 2008JAN06 17:41:36 T 2008JAN06 17:41:36
+- 
+-------------------------------------[06.01.2008 20:40]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 6  Msg. no: C04B
+Flight id: AY0156
+Message content:-
+#CFB----
+AMS1_PRSOV_VlvOpnLeft
+0
+AMS1_PRSOV_VlvOpnRight
+0
+AMS2_PRSOV_VlvOpnLeft
+1
+AMS2_PRSOV_VlvOpnRight
+1
+Bleed1
+0
+Bleed2
+0
+CAS
+246.788
+E1_aprTogaCnt
+5
+E1_aprTogaTime
+216
+E1_aprWsrCnt
+3
+E1_aprWsrTime
+94
+E1_max 
+-------------------------------------[06.01.2008 20:41]
+
+ACARS mode: 2  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 6  Msg. no: C04B
+Flight id: AY0156
+Message content:-
+#CFB----
+AMS1_PRSOV_VlvOpnLeft
+0
+AMS1_PRSOV_VlvOpnRight
+0
+AMS2_PRSOV_VlvOpnLeft
+1
+AMS2_PRSOV_VlvOpnRight
+1
+Bleed1
+0
+Bleed2
+0
+CAS
+246.788
+E1_aprTogaCnt
+5
+E1_aprTogaTime
+216
+E1_aprWsrCnt
+3
+E1_aprWsrTime
+94
+E1_max 
+-------------------------------------[06.01.2008 20:41]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 7  Msg. no: C04C
+Flight id: AY0156
+Message content:-
+#CFBconCnt
+5
+E1_maxconTime
+18
+E2_aprTogaCnt
+9
+E2_aprTogaTime
+363
+E2_aprWsrCnt
+3
+E2_aprWsrTime
+94
+E2_maxconCnt
+5
+E2_maxconTime
+15
+ECS_Config_disc1
+0
+ECS_Config_disc2
+1
+Eng1_NAI_Vlv_Cmd
+0
+Eng2_NAI_Vlv_Cmd
+0
+Engin 
+-------------------------------------[06.01.2008 20:41]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 8  Msg. no: C04D
+Flight id: AY0156
+Message content:-
+#CFBe1_ChannelinControl
+1
+Engine1_FADEC_Fan_In_Temp
+-35.2187
+Engine1_FADEC_SAT
+385
+Engine1_FuelFlow
+1532.62
+Engine1_ITT
+726.125
+Engine1_N1
+83.8906
+Engine1_N2
+82.9375
+Engine1_OilPress
+68.8571
+Engine1_OilTemp
+80. 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 8  Msg. no: C04D
+Flight id: AY0156
+Message content:-
+#CFBe1_ChannelinControl
+1
+Engine1_FADEC_Fan_In_Temp
+-35.2187
+Engine1_FADEC_SAT
+385
+Engine1_FuelFlow
+1532.62
+Engine1_ITT
+726.125
+Engine1_N1
+83.8906
+Engine1_N2
+82.9375
+Engine1_OilPress
+68.8571
+Engine1_OilTemp
+80. 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 9  Msg. no: C04E
+Flight id: AY0156
+Message content:-
+#CFB2588
+Engine1_TLA
+57.7187
+Engine1_n1CorrectedFanSpeed
+92.4218
+Engine1_n1Vibe
+0.302734
+Engine1_n2CorrectedFanSpeed
+84.6562
+Engine1_n2Vibe
+0.269531
+Engine1_oatSet
+15
+Engine1_ps3Cdp
+100.062
+Engine1_t3About
+378. 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 0  Msg. no: C04F
+Flight id: AY0156
+Message content:-
+#CFB125
+Engine1_vgAngle
+-1.6875
+Engine2_ChannelinControl
+0
+Engine2_FADEC_SAT
+385
+Engine2_Fan_In_Temp
+-35.25
+Engine2_FuelFlow
+1552.12
+Engine2_ITT
+748.75
+Engine2_N1
+83.9531
+Engine2_N2
+83.0312
+Engine2_OilPress
+70. 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 1  Msg. no: C04G
+Flight id: AY0156
+Message content:-
+#CFB2539
+Engine2_OilTemp
+86.7643
+Engine2_TLA
+57.7187
+Engine2_n1Corrected_fan_speed
+92.3437
+Engine2_n1Vibe
+0.355468
+Engine2_n2Corrected_fan_speed
+84.7343
+Engine2_n2Vibe
+0.3
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 1  Msg. no: C04G
+Flight id: AY0156
+Message content:-
+#CFB2539
+Engine2_OilTemp
+86.7643
+Engine2_TLA
+57.7187
+Engine2_n1Corrected_fan_speed
+92.3437
+Engine2_n1Vibe
+0.355468
+Engine2_n2Corrected_fan_speed
+84.7343
+Engine2_n2Vibe
+0.384765
+Engine2_oatSet
+15
+Engine2_ps3Cdp
+ 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 2  Msg. no: C04H
+Flight id: AY0156
+Message content:-
+#CFB101
+Engine2_t3About
+379.062
+Engine2_vgAngle
+-1.8125
+HPSOV_VLV_OPNLeft1
+0
+HPSOV_VLV_OPNLeft2
+0
+HPSOV_VLV_OPNRight1
+0
+HPSOV_VLV_OPNRight2
+0
+Mach
+0.782055
+Pack1
+0
+Pack1_Flow
+33.3359
+Pack2
+0
+Pack2_Flow
+30.3593
+ 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 3  Msg. no: C04I
+Flight id: AY0156
+Message content:-
+#CFBPress_Alt
+38110.9
+SAI_Config_Disc1
+0
+SAI_Config_Disc2
+0
+SAT
+-59.4063
+SlatAI_Left
+0
+SlatAI_Right
+0
+TotalAirTemp
+-33.2598
+e1n1avib
+0.13282
+e1n1bvib
+0.0234389
+e1n2avib
+0.0585973
+e1n2bvib
+0.101568
+e2n1avib
+0.15 
+-------------------------------------[06.01.2008 20:42]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 3  Msg. no: C04I
+Flight id: AY0156
+Message content:-
+#CFBPress_Alt
+38110.9
+SAI_Config_Disc1
+0
+SAI_Config_Disc2
+0
+SAT
+-59.4063
+SlatAI_Left
+0
+SlatAI_Right
+0
+TotalAirTemp
+-33.2598
+e1n1avib
+0.13282
+e1n1bvib
+0.0234389
+e1n2avib
+0.0585973
+e1n2bvib
+0.101568
+e2n1avib
+0.15 
+-------------------------------------[06.01.2008 20:43]
+
+ACARS mode: O  Aircraft reg: .OH-LEM
+Message label: H1  Block id: 4  Msg. no: C04J
+Flight id: AY0156
+Message content:-
+#CFB6259
+e2n1bvib
+0.109381
+e2n2avib
+0.0117194
+e2n2bvib
+0.14454
+
+-------------------------------------[06.01.2008 20:43]

@@ -1,0 +1,90 @@
+SA 11/15:00
+METAR UWUU 111500Z 16001MPS 4500 BR FU SKC M30/M33 Q1036
+     NOSIG RMK QFE767/1023 64010060 =
+SA 11/15:00
+METAR USCC 111500Z 00000MPS 1800 BR FU FEW 200 M23/M25 Q1033
+     NOSIG RMK QFE755 88000060 =
+SA 11/15:00
+USNN 111500Z 12005MPS P6000 SCT200 M30/M32 Q1048 NOSIG RMK QFE781
+     SC05=
+SA 11/15:00
+METAR UNAA 111500Z 00000MPS 9999 -SN FEW006 OVC100 M17/M19 Q1041
+     NOSIG RMK QFE758 023///50 =
+
+
+==================================================
+ICAO              : UWUU
+Station Name      : Bashkortostan
+Country           : Russian Federation
+Location          : 54-44N 055-56E
+Elevation         : 140m
+Time              : 11.01.2008 15:00:00
+Temperature       : -30.0°C
+Dew Point         : -33.0°C
+RH                : 75%
+Wind              : SSE (160 degrees) at 1 m/s
+Visibility        : 4.5km
+Pressure          : 777.0 mm Hg
+Sky Condition     : Clear
+Weather           : Mist, Smoke
+Remarks           : 
+Heat Index        : N/A
+==================================================
+
+==================================================
+ICAO              : USNN
+Station Name      : Nizhnevartovsk
+Country           : Russian Federation
+Location          : 60-57N 076-29E
+Elevation         : 54m
+Time              : 11.01.2008 15:00:00
+Temperature       : -30.0°C
+Dew Point         : -32.0°C
+RH                : 83%
+Wind              : ESE (120 degrees) at 5 m/s
+Visibility        : 
+Pressure          : 786.1 mm Hg
+Sky Condition     : Scattered clouds at 6100m
+Weather           : 
+Remarks           : 
+Heat Index        : N/A
+==================================================
+
+==================================================
+ICAO              : USCC
+Station Name      : Chelyabinsk-Bala
+Country           : Russian Federation
+Location          : 55-10N 061-24E
+Elevation         : 230m
+Time              : 11.01.2008 15:00:00
+Temperature       : -23.0°C
+Dew Point         : -25.0°C
+RH                : 84%
+Wind              : Calm
+Visibility        : 1.8km
+Pressure          : 774.7 mm Hg
+Sky Condition     : Few clouds at 6100m
+Weather           : Mist, Smoke
+Remarks           : 
+Heat Index        : N/A
+==================================================
+
+==================================================
+ICAO              : UNAA
+Station Name      : Abakan
+Country           : Russian Federation
+Location          : 53-45N 091-24E
+Elevation         : 250m
+Time              : 11.01.2008 15:00:00
+Temperature       : -17.0°C
+Dew Point         : -19.0°C
+RH                : 84%
+Wind              : Calm
+Visibility        : > 10.0km
+Pressure          : 780.8 mm Hg
+Sky Condition     : Few clouds at 180m, Overcast at 3000m
+Weather           : Light Snow
+Remarks           : 
+Heat Index        : N/A
+==================================================
+

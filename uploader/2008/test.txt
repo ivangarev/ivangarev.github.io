@@ -1,0 +1,65 @@
+; тест "мигалка" на выводах 23-28 контролера атмега8
+; релиз специал фор IC7K
+
+
+.INCLUDE        "m8def.inc"
+.DEF    tmp =r16
+.DEF    tmp1=r17
+.DEF    tmp2=r18
+.DEF    tmp3=r19
+;------------------------------------------------
+.CSEG
+.ORG	$0
+	rjmp	reset
+;------------------------------------------------
+.ORG	$20
+Reset:	ldi     tmp,$18
+        out     wdtcr,tmp
+        ldi     tmp,$10
+        out     wdtcr,tmp
+	ldi	tmp,$02 
+	out	sph,tmp
+        ldi     tmp,$5f
+        out     spl,tmp
+	cli
+;------------------------------------------------
+	clr	tmp		
+	out	ddrb,tmp	
+	out	portb,tmp	
+	out	ddrd,tmp	
+	out	portd,tmp	
+
+	ldi	tmp,$3f
+	out	ddrc,tmp
+	out	portc,tmp
+;------------------------------------------------
+
+test:	
+	ldi	tmp,$3f
+	out	portc,tmp
+	rcall	del
+	ldi	tmp,$00
+	out	portc,tmp
+	rcall	del
+	rjmp	test
+
+;------------------------------------------------
+
+del:			;подпрограмма задержки
+	push	tmp1
+	push	tmp2
+	push	tmp3
+	ldi	tmp1,10	;меняем от 1-255 длительность задержки
+del1:	ldi	tmp2,00
+del2:	ldi	tmp3,00
+del3:	dec	tmp3
+	brne	del3
+	dec	tmp2
+	brne	del2
+	dec	tmp1
+	brne	del1
+	pop	tmp3
+	pop	tmp2
+	pop	tmp1
+	ret
+.Exit
